@@ -1,4 +1,4 @@
-## Khadiatou 👋
+## Hi I'm Khadiatou 👋
 I'm a Data Science & Business Administration student with a passion for turning data into decisions. I sit at the intersection of analytics and strategy — driven by a goal to break into product management and business analytics in tech.<br>🛠️ Tools & Skills<br><br>Languages: Python, R, SQL<br>Focus areas: Data analysis, business intelligence, product thinking<br><br>🚀 What I'm Working On<br><br>Koraway — a project where I'm putting my data and business skills together in a real-world context<br><br>🎯 Goals<br>I'm building toward a career where I can use data to drive product decisions and business strategy. I'm especially interested in roles that blend analytical depth with business impact.<br>📫 Let's Connect<br>Open to collaborations, feedback, and conversations about data, products, and tech.<br><br><br>fun fact: I can speak three languages -- bambara, french, and english
 
 
